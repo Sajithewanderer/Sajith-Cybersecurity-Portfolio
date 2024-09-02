@@ -10,7 +10,7 @@ I am a seasoned IT professional having 8 years of IT and Customer facing experie
 My journey in IT industry has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Cybersecurity Engineer.
 
 ## Projects
-
+### -Network Traffic Monitoring and Attack Detection using Wireshark: Wireshark 101: Capture Packets
 
 ## Skills & Tools
 
