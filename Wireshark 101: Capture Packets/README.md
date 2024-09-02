@@ -1,12 +1,13 @@
-# Wireshark 101: Capture Packets
+# Network Traffic Monitoring and Attack Detection using Wireshark
 
 ## Objective: 
-### -A small-size enterprise wants to detect certain TCP/IP network traffic on their server; specifically web traffic.
+### -A small-size enterprise wants to detect and inspect certain TCP/IP network traffic on their server; specifically web traffic.
 ### -Lets set up and demonstrate Wireshark's packet capture capabilities.
 
-## Project Goal:
-### The IT manager wants to capture ethernet network web traffic on the server and be able to detect certain IP addresses as well.
-### We gonna use
+## Tasks:
+### 1.	Using Wireshark to capture packets on an ethernet port and save the capture data to a file.
+ (->Start packet capture ->stop capture->save the packets to a file and load the capture file)
+
 
 ## Concepts which are used:
 ### 1.Static and dynamic IP allocation 
