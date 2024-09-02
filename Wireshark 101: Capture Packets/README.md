@@ -33,6 +33,15 @@
 [!(ip.addr == 142.250.67.46) and (tcp.port==443 or tcp.port==80)]
 ![image](https://github.com/user-attachments/assets/0d2b632e-93f3-4ab0-959d-c6bbcf1d3232)
 
+### 6.	Capturing all HTTP and HTTPS packets except http://cygwin.com.
+[Find the IP address of http://cygwin.com using tcp.port==80]
+![image](https://github.com/user-attachments/assets/cb9d4465-5bc4-4156-a36b-ab0d098e394e)
+
+( Combining the conditional commands to get the end result )
+[ !(ip.addr == 8.43.85.97) and (tcp.port==80 or tcp.port==443)]
+
+![image](https://github.com/user-attachments/assets/518998f8-fceb-4fcc-97c0-c0f07517d1fb)
+
 
 
 
