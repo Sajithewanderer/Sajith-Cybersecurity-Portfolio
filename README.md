@@ -9,11 +9,3 @@ I am a seasoned IT professional having 8 years of IT and Customer facing experie
 
 My journey in IT industry has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Cybersecurity Engineer.
 
-## I have developed a cybersecurity portfolio showcasing various tasks and projects completed during my journey to earn the Google Cybersecurity Professional Certificate. 
-## Please visit this [link](https://www.coursera.org/google-certificates/cybersecurity-certificate)
-### This program has provided insights into:
-### -Programming for cybersecurity tasks.
-### -Frameworks and controls that inform security operations.
-### -SIEM tools for cybersecurity.
-### -Detecting and responding to incidents using an intrusion detection system.
-### -Performing packet capture and analysis.
