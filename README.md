@@ -9,7 +9,7 @@ I am a seasoned IT professional having 8 years of IT and Customer facing experie
 
 My journey in IT industry has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Cybersecurity Engineer.
 
-## Projects
+## Projects ### (Click to view)
 ### -Network Traffic Monitoring and Attack Detection using Wireshark
 ### <a href="https://github.com/Sajithewanderer/Sajith-Cybersecurity-Portfolio/tree/main/Log%20Parser"> -Log Parser using Python </a>
 ### -Network Design of a Startup Company using Cisco Packet Tracer
