@@ -37,7 +37,6 @@
 [Find the IP address of http://cygwin.com using tcp.port==80]
 ![image](https://github.com/user-attachments/assets/cb9d4465-5bc4-4156-a36b-ab0d098e394e)
 
-( Combining the conditional commands to get the end result )
 [ !(ip.addr == 8.43.85.97) and (tcp.port==80 or tcp.port==443)]
 
 ![image](https://github.com/user-attachments/assets/518998f8-fceb-4fcc-97c0-c0f07517d1fb)
