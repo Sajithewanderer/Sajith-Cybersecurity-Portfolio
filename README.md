@@ -11,7 +11,7 @@ My journey in IT industry has led me to develop a passion for cybersecurity, and
 
 ## Projects
 ### -Network Traffic Monitoring and Attack Detection using Wireshark
-### -Log Parser using Python
+### -Log Parser using Python -----> <a href="https://github.com/Sajithewanderer/Sajith-Cybersecurity-Portfolio/tree/main/Log%20Parser"></a>
 ### -Network Design of a Startup Company using Cisco Packet Tracer
 
 ## Skills & Tools
