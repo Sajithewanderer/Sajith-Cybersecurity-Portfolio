@@ -11,6 +11,8 @@ My journey in IT industry has led me to develop a passion for cybersecurity, and
 
 ## Projects
 ### -Network Traffic Monitoring and Attack Detection using Wireshark
+### -Log Parser using Python
+### -Network Design of a Startup Company using Cisco Packet Tracer
 
 ## Skills & Tools
 
