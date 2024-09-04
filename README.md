@@ -11,6 +11,8 @@ My journey in IT industry has led me to develop a passion for cybersecurity, and
 
 ## Projects (Click to view)
 ### <a href="https://github.com/Sajithewanderer/Sajith-Cybersecurity-Portfolio/blob/main/Wireshark%20101:%20Capture%20Packets/README.md"> -Network Traffic Monitoring and Attack Detection using Wireshark </a>
+### <a href="https://github.com/Sajithewanderer/Sajith-Cybersecurity-Portfolio/tree/main/Python%20Automation_Updating%20restricted%20access"> -Python Automation_Updating restricted access </a>
+### <a href="https://github.com/Sajithewanderer/Sajith-Cybersecurity-Portfolio/tree/main/Python%3A%20Finding%20Suspicious%20login%20attemps"> -Python: Finding Suspicious login attemps </a>
 ### <a href="https://github.com/Sajithewanderer/Sajith-Cybersecurity-Portfolio/tree/main/Log%20Parser"> -Log Parser using Python </a>
 ### <a href="https://github.com/Sajithewanderer/Sajith-Cybersecurity-Portfolio/tree/main/Network%20Design%20of%20a%20Startup%20Company%20using%20Cisco%20Packet%20Tracer"> -Network Design of a Startup Company using Cisco Packet Tracer </a>
 
