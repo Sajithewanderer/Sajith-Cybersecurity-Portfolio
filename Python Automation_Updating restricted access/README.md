@@ -36,6 +36,9 @@ ip_address
 ![image](https://github.com/user-attachments/assets/8b952981-2bc4-496e-a9d1-65cd5c9a1fc3)
 
 OUTPUT:
+## All the restricted IP addresses has been removed from the "allow_list.txt"
+![image](https://github.com/user-attachments/assets/b7fb2383-ea32-425c-ac1c-5967b8bbb69e)
+
 
 
 
