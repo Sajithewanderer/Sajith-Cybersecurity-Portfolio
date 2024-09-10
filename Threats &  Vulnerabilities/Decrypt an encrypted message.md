@@ -22,13 +22,13 @@ The message in the README.txt file advises that the caesar subdirectory contains
 * Use the `cat` command to list the contents of the hidden file:
 `cat .leftShift3`.
 
-The message appears to be scrambled due to being encrypted with a Caesar cipher. The cipher can be solved by shifting each alphabet character to the left or right by a fixed number of spaces. In this example, the shift is three letters to the left. Thus `"d"` stands for `"a"`, and `"e"`stands for `"b"`.
+>The message appears to be scrambled due to being encrypted with a Caesar cipher. The cipher can be solved by shifting each alphabet character to the left or right by a fixed number of spaces. In this example, the shift is three letters to the left. Thus `"d"` stands for `"a"`, and `"e"`stands for `"b"`.
 
 * Decrypt the Cipher using the command `cat` and `tr`:
 `cat .leftShift3 | tr "d-za-cD-ZA-C" "a-zA-Z"`.
 
 
-> The tr command translates text from one set of characters to another, using a mapping. The first parameter to the tr command represents the input set of characters, and the second represents the output set of characters. Hence, if you provide parameters “abcd” and “pqrs”, and the input string to the tr command is “ac”, the output string will be “pr".
+>The tr command translates text from one set of characters to another, using a mapping. The first parameter to the tr command represents the input set of characters, and the second represents the output set of characters. Hence, if you provide parameters “abcd” and “pqrs”, and the input string to the tr command is “ac”, the output string will be “pr".
 
 
 4. Decrypt a file 
@@ -37,7 +37,7 @@ The message appears to be scrambled due to being encrypted with a Caesar cipher.
 
 
 
-This command reverses the encryption of the file with a secure symmetric cipher as indicated by AES-256-CBC. The `-pbkdf2` option is used to add extra security to the key, and `-a` indicates the desired encoding for the output. The `-d` indicates decrypting, while `-in` specifies the input file and `-out` specifies the output file. The `-k` specifies the password, which in this example is ettubrute.
+>This command reverses the encryption of the file with a secure symmetric cipher as indicated by AES-256-CBC. The `-pbkdf2` option is used to add extra security to the key, and `-a` indicates the desired encoding for the output. The `-d` indicates decrypting, while `-in` specifies the input file and `-out` specifies the output file. The `-k` specifies the password, which in this example is ettubrute.
 
 * Use the `ls` command and `cat Q1.recovered`.
 
