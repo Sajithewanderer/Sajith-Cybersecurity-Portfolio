@@ -1,4 +1,4 @@
-![Pic 2](https://github.com/user-attachments/assets/c7506a4f-bd31-4147-8e3b-eb2910da76e8)# PASTA Model Framework
+# PASTA Model Framework
 > Processs of Attack Simulation and Threat Analysis
 
 ## Scenario 
