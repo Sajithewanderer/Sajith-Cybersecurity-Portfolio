@@ -53,14 +53,25 @@ $HOME_NET is definatd as the `172.21.224/0/20` subnet.
 
 ### Task 3. Examine eve.json output
 
+* Use the cat command to display the entries in the `eve.json` file: `cat /var/log/suricata/eve.json`. The format of the data will be in JSON.
 
+![image](https://github.com/user-attachments/assets/812199fe-a296-4201-b9fe-edf60d64e061)
 
+* Let's display the entries in an improved format: `jq . /var/log/suricata/eve/json | less`.
 
+![image](https://github.com/user-attachments/assets/d19d04c9-5103-484b-9ec9-9290e4aa8c41)
 
+* Extract specific event data from `eve.json` file: `jq -c "[.timestamp,.flow_id,.alert.signature,.proto,.dest_ip]" /var/log/suricata/eve.json`.
 
+![image](https://github.com/user-attachments/assets/93cc3828-f386-4579-a6ca-65cc67aefd7b)
 
+> Press Q to exit the `less` command and return to the command-line prompt.
 
+> jq "select(.flow_id==X)" /var/log/suricata/eve.json
 
+> Use the jq command to display all event logs related to a specific flow_id from the eve.json file.
+> The flow_id value is a 16-digit number and will vary for each of the log entries.
+> Replace X with any of the flow_id values returned by the previous query.
 
 
 
