@@ -18,6 +18,7 @@ My journey in IT industry has led me to develop a passion for cybersecurity, and
 ### <a href="https://github.com/Sajithewanderer/Sajith-Cybersecurity-Portfolio/tree/main/Log%20Parser"> -Log Parser using Python </a>
 ### <a href="https://github.com/Sajithewanderer/Sajith-Cybersecurity-Portfolio/tree/main/Threats%20%26%20%20Vulnerabilities"> -Threats & Vulnerabilities </a>
 ### <a href="https://github.com/Sajithewanderer/Sajith-Cybersecurity-Portfolio/tree/main/Detection%20%26%20Response"> -Detection & Response </a>
+### <a href="https://github.com/Sajithewanderer/Sajith-Cybersecurity-Portfolio/tree/main/Network%20Security"> -Network Security </a>
 ### <a href="https://github.com/Sajithewanderer/Sajith-Cybersecurity-Portfolio/tree/main/Network%20Design%20of%20a%20Startup%20Company%20using%20Cisco%20Packet%20Tracer"> -Network Design of a Startup Company using Cisco Packet Tracer </a>
 
 ## Skills & Tools
