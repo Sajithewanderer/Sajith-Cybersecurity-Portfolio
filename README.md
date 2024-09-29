@@ -30,7 +30,7 @@ My journey in IT industry has led me to develop a passion for cybersecurity, and
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Vulnerability Management and Patching
+### Vulnerability Management
 <div>
     <img src="https://img.shields.io/badge/-Nessus_Tenable-3399FF?&style=for-the-badge&logo=Nessus&logoColor=white" />
     <img src="https://img.shields.io/badge/-Qualys-6E5494?&style=for-the-badge&logo=Qualys&logoColor=white" />
