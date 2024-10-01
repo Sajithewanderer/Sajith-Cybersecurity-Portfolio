@@ -12,6 +12,7 @@ My journey in IT industry has led me to develop a passion for cybersecurity, and
 ## Projects (Click to view)
 ### <a href="https://github.com/Sajithewanderer/Sajith-Cybersecurity-Portfolio/tree/main/IDS%20%26%20SIEM"> -IDS & SIEM </a>
 ### <a href="https://github.com/Sajithewanderer/Sajith-Cybersecurity-Portfolio/tree/main/Tcpdump"> -Tcpdump: Packet Capture </a>
+### <a href="https://github.com/Sajithewanderer/Sajith-Cybersecurity-Portfolio/tree/main/Vulnerability%20Assessment%20Using%20Nessus"> -Vulnerability Assessment using Nessus </a>
 ### <a href="https://github.com/Sajithewanderer/Sajith-Cybersecurity-Portfolio/blob/main/Wireshark%20101:%20Capture%20Packets/README.md"> -Wireshark: Network Traffic Monitoring and Attack Detection </a>
 ### <a href="https://github.com/Sajithewanderer/Sajith-Cybersecurity-Portfolio/tree/main/Python%20Automation_Updating%20restricted%20access"> -Python Automation_Updating restricted access </a>
 ### <a href="https://github.com/Sajithewanderer/Sajith-Cybersecurity-Portfolio/tree/main/Python%3A%20Finding%20Suspicious%20login%20attemps"> -Python: Finding Suspicious login attemps </a>
