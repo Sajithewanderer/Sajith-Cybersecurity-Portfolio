@@ -26,7 +26,7 @@ My journey in IT industry has led me to develop a passion for cybersecurity, and
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Course-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 </div>
 
 ### Network
