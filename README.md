@@ -24,6 +24,11 @@ My journey in IT industry has led me to develop a passion for cybersecurity, and
 
 ## Skills & Tools
 
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Course-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+</div>
+
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -43,8 +48,4 @@ My journey in IT industry has led me to develop a passion for cybersecurity, and
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Course-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
-</div>
 
